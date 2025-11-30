@@ -38,6 +38,7 @@ main_repository/
 │   ├── top_100.py
 │   ├── tree.py
 │   └── unsorted_table_map.py
+│
 ├── description.pdf
 ├── README.md
 └── LICENSE
@@ -110,3 +111,9 @@ Follow on-screen prompts to:
 - Playlist creation is immediate and dynamic.
 - Data structures ensure efficient management of song selection, playback order, and priority.
 - Threads are used to manage concurrent operations like playback and interface updates.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
