@@ -40,8 +40,8 @@ main_repository/
 │   └── unsorted_table_map.py
 │
 ├── description.pdf
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ---
